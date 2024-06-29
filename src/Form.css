@@ -1,0 +1,41 @@
+.registration-form {
+    width: 300px;
+    margin: auto;
+     padding: 20px;
+     background-color: #eff4f8;
+     border-radius: 5px;
+   }
+   
+   .form-group {
+     margin-bottom: 15px;
+   }
+   
+   label {
+     display: block;
+     font-weight: bold;
+     margin-bottom: 5px;
+   }
+   
+   input[type="text"],
+   input[type="email"],
+   input[type="password"] {
+     width: 90%;
+     padding: 10px;
+     border: 1px solid #ced4da;
+     border-radius: 4px;
+   }
+   
+   button {
+     width: 90%;
+     padding: 10px;
+     background-color: rgb(98, 202, 98);
+     color: black;
+     border: none;
+     border-radius: 4px;
+     cursor: pointer;
+   }
+   
+   button:hover {
+     background-color: #0056b3;
+   }
+   
